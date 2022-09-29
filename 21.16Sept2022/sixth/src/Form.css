@@ -1,0 +1,7 @@
+.formclass {
+    margin-top: 2em;
+}
+input[type="text"] {
+    width: 15%;
+    height: 20px;
+}

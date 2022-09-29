@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+h1 {
+    color: rgb(88, 14, 117);
+    font-size: 91px;
+    font-style: initial;
+    flex-direction: inherit;
+}
+p {
+    font-size: larger;
+    font-size: 60px;
+    color: rgb(20, 172, 32);
+    transform: rotate(180deg);
+    transition-duration: 10s;
+}
+h2 {
+    color: coral;
+}
